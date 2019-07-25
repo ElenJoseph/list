@@ -5,8 +5,7 @@ body{
  font-size:1.15rem; 
  text-align: center;
  display: flex;
- felx-direction: column;
- justify-content: space-between;
+ flex-direction: column;
  align-content: center;
 }
 
