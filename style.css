@@ -19,6 +19,8 @@ h2{
  
 ul{
  list-style: none; 
+ width: 17rem;
+ margin: auto;
 }
 ul li { }
 ul li a{
