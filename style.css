@@ -1,8 +1,8 @@
 
 body{ 
- margin: 0 auto;
- font-family:Georgia, Times, serif; 
- font-size:1.25rem; 
+ margin: 1rem auto;
+ font-family: Helvetica, sans-serif; 
+ font-size:1.15rem; 
  text-align: center;
  display: flex;
  felx-direction: column;
