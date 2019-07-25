@@ -20,7 +20,7 @@ h2{
 ul{
  list-style: none; 
  width: 17rem;
- margin: auto;
+ margin: 0 auto;
 }
 ul li { }
 ul li a{
